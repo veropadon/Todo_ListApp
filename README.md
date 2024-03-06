@@ -6,11 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #Todo List application
 
 ### Technologies Used
-TypeScript
-React
-React Router
-Chakra UI
-Node.js
+#TypeScript
+#React
+#React Router
+#Chakra UI
+#Node.js
 NestJS
 PostgreSQL with TypeORM
 Folder Structure
