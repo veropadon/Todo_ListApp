@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Todo List application
+
+Technologies Used
+TypeScript
+React
+React Router
+Chakra UI
+Node.js
+NestJS
+PostgreSQL with TypeORM
+Folder Structure
+server/: Contains the server-side code (NestJS).
+client/: Contains the client-side code (React).
+
 ## Available Scripts
 
 In the project directory, you can run:
